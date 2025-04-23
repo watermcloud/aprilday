@@ -133,6 +133,12 @@ body {
   left: 30%;
 }
 
+@media screen and (max-width: 430px) {
+  .baloons img {
+    width: 60px; /* perkecil balon di layar kecil */
+  }
+}
+
 .seven, .eight {
   height: 100vh;
   position: fixed;
