@@ -135,7 +135,7 @@ body {
 
 @media screen and (max-width: 430px) {
   .baloons img {
-    width: 60px; /* perkecil balon di layar kecil */
+    width: 150px; /* perkecil balon di layar kecil */
   }
 }
 
